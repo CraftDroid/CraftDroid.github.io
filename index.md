@@ -10,7 +10,7 @@ The dataset is accessible [here](https://github.com/CraftDroid/ReCBench).
 #### Fix Templates
 We have mined 17 fix templates that are accessible [here](https://github.com/CraftDroid/ExpData/tree/master/Fix_Templates).
 #### Evaluated Patches
-We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. (Quickly updating links 21-03-2019, kindly wait)
+We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. (Actively updating diff view on 21-03-2019, may I have your patience, please ^_^)
 
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
