@@ -25,7 +25,7 @@ areain! | 1 |Provider Checker | yes | |
 Mine\_mine |20| Emptiness Checker | yes | |
 SetCPU |20| Emptiness Checker | no | String null throw NPE|
 FingerWQ | 23|Canvas Preconcator | no | app method non existing |
- BTCfx |15| Package Settler | yes | |
+[BTCfx](https://github.com/CraftDroid/ExpData/commit/ca263e4f33077074f2801ae3b97cff673695381d) |15| Package Settler | yes | |
  MapCam | 15|Package Settler | yes | |
  Baby Piano |2| Activity Resolver | yes | |
  GK in Gujarati |2| Activity Resolver | yes | |
