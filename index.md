@@ -28,7 +28,7 @@ FingerWQ | 23|Canvas Preconcator | no | app method non existing |
 [BTCfx](https://github.com/CraftDroid/ExpData/commit/ca263e4f33077074f2801ae3b97cff673695381d) |15| Package Settler | yes | |
  MapCam | 15|Package Settler | yes | |
  Baby Piano |2| Activity Resolver | yes | |
- GK in Gujarati |2| Activity Resolver | yes | |
+ [GK in Gujarati](https://github.com/CraftDroid/ExpData/commit/5162b8febfaea0c8c7c03a9b6d9371919ec4698a) |2| Activity Resolver | yes | |
  Reflection | 2|Activity Resolver | yes | |
  UK Lotto | 2|Activity Resolver | yes | |
  Agile Buddy | 2|Activity Resolver | yes | |
