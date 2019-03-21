@@ -13,12 +13,12 @@ We have mined 17 fix templates that are accessible [here](https://github.com/Cra
 We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. (Quickly updating links 21-03-2019, kindly wait)
 
 App Name |Bucket| Applied Template | Fix | Remark|
-|----|---|---|---|---|
+|-------|------|------|------|------|
 AutoHome | 8 |LifeCycle Verifier | yes |   |
 PI | 8| LifeCycle Verifier | yes | |
 JadwalKA |12| Thread Finisher | yes | |
 Fruit Mahjong |12| Thread Finisher | yes | |
-Flashlight | 1 | Provider Checker | yes | | % got this one wrong, this belongs to LiveCycle verifier.
+Flashlight | 1 | Provider Checker | yes | | 
 areain! | 1 |Provider Checker | yes | |
  WordPress |18| Range Checker | no | crash with succeeding API |
 [Android Optimizer](https://github.com/CraftDroid/ExpData/commit/8ee947a913fc1397c6756b7d4eac917fd49593c7) |18| Range Checker | yes | |
