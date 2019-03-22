@@ -10,7 +10,7 @@ The dataset is accessible [here](https://github.com/CraftDroid/ReCBench).
 #### Fix Templates
 We have mined 17 fix templates that are accessible [here](https://github.com/CraftDroid/ExpData/tree/master/Fix_Templates).
 #### Evaluated Patches
-We have applied these fix templates on 20 apks selected from [ReCBench](https://github.com/CraftDroid/ReCBench), out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a git diff view of the patches. 
+We have applied these fix templates on 20 apks selected from [ReCBench](https://github.com/CraftDroid/ReCBench), out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a git diff view of the patches applied on the corresponding [JIMPLE](https://github.com/Sable/soot/wiki/Fundamental-Soot-objects) files. 
 
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
