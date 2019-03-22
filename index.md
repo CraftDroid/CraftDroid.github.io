@@ -30,7 +30,7 @@ FingerWQ | 23|Canvas Preconcator | no | app method non existing |
  [Baby Piano](https://github.com/CraftDroid/ExpData/commit/a63c31e2ce703dd5dfc74d1c4ddb175b5b4d26ee) |2| Activity Resolver | yes | |
  [GK in Gujarati](https://github.com/CraftDroid/ExpData/commit/5162b8febfaea0c8c7c03a9b6d9371919ec4698a) |2| Activity Resolver | yes | |
  Reflection | 2|Activity Resolver | yes | |
- UK Lotto | 2|Activity Resolver | yes | |
+ [UK Lotto](https://github.com/CraftDroid/ExpData/commit/67ab10253b8dfdf0d52861a85358cded730e5d2b) | 2|Activity Resolver | yes | |
  Agile Buddy | 2|Activity Resolver | yes | |
  [HiYou Park](https://github.com/CraftDroid/ExpData/commit/189292caa667d5938b40601fba355545cd6133f1) | 33|Try-catcher | yes | |
  Sohu Weibo | 33|Try-catcher | yes | |
