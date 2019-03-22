@@ -17,7 +17,7 @@ We have applied these fix templates on 20 apks selected from ReCBench, out of wh
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
 [AutoHome](https://github.com/CraftDroid/ExpData/commit/cca641e121720856e659879ef8b4675ed6f8356f) | 8 |LifeCycle Verifier | yes |   |
-PI | 8| LifeCycle Verifier | yes | |
+[PI](https://github.com/CraftDroid/ExpData/commit/1358d2ed2497354758772a718bad96133c278515) | 8| LifeCycle Verifier | yes | |
 [JadwalKA](https://github.com/CraftDroid/ExpData/commit/64b24aa4dcbfeeca865971ddaca1ddcf439b2269) |12| Thread Finisher | yes | |
 Fruit Mahjong |12| Thread Finisher | yes | |
 [Flashlight](https://github.com/CraftDroid/ExpData/commit/cc549ab14ad3499270a922819a09226405a9abd3) | 1 | Provider Checker | yes | | 
