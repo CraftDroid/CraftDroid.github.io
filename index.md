@@ -10,9 +10,9 @@ The dataset is accessible [here](https://github.com/CraftDroid/ReCBench).
 #### Fix Templates
 We have mined 17 fix templates that are accessible [here](https://github.com/CraftDroid/ExpData/tree/master/Fix_Templates).
 #### Evaluated Patches
-We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. 
+We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a git diff view of the patches. 
 
-(Actively updating diff view on 21-03-2019, may I have your patience, please ^_^)
+(Actively updating git diff view on 21-03-2019, may I have your patience, please ^_^)
 
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
@@ -31,7 +31,7 @@ Fruit Mahjong |12| Thread Finisher | yes | |
 [MapCam](https://github.com/CraftDroid/ExpData/commit/234119045fd8110f466705a682eeb19d89fffe5c) | 15|Package Settler | yes | |
  [Baby Piano](https://github.com/CraftDroid/ExpData/commit/a63c31e2ce703dd5dfc74d1c4ddb175b5b4d26ee) |2| Activity Resolver | yes | |
  [GK in Gujarati](https://github.com/CraftDroid/ExpData/commit/5162b8febfaea0c8c7c03a9b6d9371919ec4698a) |2| Activity Resolver | yes | |
- Reflection | 2|Activity Resolver | yes | |
+ [Reflection](https://github.com/CraftDroid/ExpData/commit/92baafd3cf689dd693735745a7022f6f4d4900d6) | 2|Activity Resolver | yes | |
  [UK Lotto](https://github.com/CraftDroid/ExpData/commit/67ab10253b8dfdf0d52861a85358cded730e5d2b) | 2|Activity Resolver | yes | |
  Agile Buddy | 2|Activity Resolver | yes | |
  [HiYou Park](https://github.com/CraftDroid/ExpData/commit/189292caa667d5938b40601fba355545cd6133f1) | 33|Try-catcher | yes | |
