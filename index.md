@@ -10,16 +10,14 @@ The dataset is accessible [here](https://github.com/CraftDroid/ReCBench).
 #### Fix Templates
 We have mined 17 fix templates that are accessible [here](https://github.com/CraftDroid/ExpData/tree/master/Fix_Templates).
 #### Evaluated Patches
-We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a git diff view of the patches. 
-
-(Actively updating git diff view on 21-03-2019, may I have your patience, please ^_^)
+We have applied these fix templates on 20 apks selected from [ReCBench](https://github.com/CraftDroid/ReCBench), out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a git diff view of the patches. 
 
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
 [AutoHome](https://github.com/CraftDroid/ExpData/commit/cca641e121720856e659879ef8b4675ed6f8356f) | 8 |LifeCycle Verifier | yes |   |
 [PI](https://github.com/CraftDroid/ExpData/commit/1358d2ed2497354758772a718bad96133c278515) | 8| LifeCycle Verifier | yes | |
 [JadwalKA](https://github.com/CraftDroid/ExpData/commit/64b24aa4dcbfeeca865971ddaca1ddcf439b2269) |12| Thread Finisher | yes | |
-Fruit Mahjong |12| Thread Finisher | yes | |
+[Fruit Mahjong](https://github.com/CraftDroid/ExpData/commit/7d2dc6cd99a970293570bf52ed1d46aa54ad3f81) |12| Thread Finisher | yes | |
 [Flashlight](https://github.com/CraftDroid/ExpData/commit/cc549ab14ad3499270a922819a09226405a9abd3) | 1 | Provider Checker | yes | | 
 [areain!](https://github.com/CraftDroid/ExpData/commit/3f18d8b980d7b2b3bd6a7a7cee6044569361e665) | 1 |Provider Checker | yes | |
 [WordPress](https://github.com/CraftDroid/ExpData/commit/c2fe9d203ddd4c71657e6a1e2c7c5e3667d4b195) |18| Range Checker | no | crash with succeeding API |
