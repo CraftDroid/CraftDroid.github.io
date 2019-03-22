@@ -25,7 +25,7 @@ Fruit Mahjong |12| Thread Finisher | yes | |
  WordPress |18| Range Checker | no | crash with succeeding API |
 [Android Optimizer](https://github.com/CraftDroid/ExpData/commit/8ee947a913fc1397c6756b7d4eac917fd49593c7) |18| Range Checker | yes | |
 [Mine\_mine](https://github.com/CraftDroid/ExpData/commit/dbdb8db7c9a4cb67ba7dd33beb1b61fd58539fa2) |20| Emptiness Checker | yes | |
-SetCPU |20| Emptiness Checker | no | String null throw NPE|
+[SetCPU](https://github.com/CraftDroid/ExpData/commit/e9664d29d2038b5c58279d333a54b80909e3e5be) |20| Emptiness Checker | no | String null throw NPE|
 FingerWQ | 23|Canvas Preconcator | no | app method non existing |
 [BTCfx](https://github.com/CraftDroid/ExpData/commit/ca263e4f33077074f2801ae3b97cff673695381d) |15| Package Settler | yes | |
  MapCam | 15|Package Settler | yes | |
