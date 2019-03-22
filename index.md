@@ -19,7 +19,7 @@ PI | 8| LifeCycle Verifier | yes | |
 JadwalKA |12| Thread Finisher | yes | |
 Fruit Mahjong |12| Thread Finisher | yes | |
 Flashlight | 1 | Provider Checker | yes | | 
-areain! | 1 |Provider Checker | yes | |
+[areain!](https://github.com/CraftDroid/ExpData/commit/3f18d8b980d7b2b3bd6a7a7cee6044569361e665) | 1 |Provider Checker | yes | |
  WordPress |18| Range Checker | no | crash with succeeding API |
 [Android Optimizer](https://github.com/CraftDroid/ExpData/commit/8ee947a913fc1397c6756b7d4eac917fd49593c7) |18| Range Checker | yes | |
 [Mine\_mine](https://github.com/CraftDroid/ExpData/commit/dbdb8db7c9a4cb67ba7dd33beb1b61fd58539fa2) |20| Emptiness Checker | yes | |
