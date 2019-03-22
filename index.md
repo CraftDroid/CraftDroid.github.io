@@ -33,5 +33,5 @@ FingerWQ | 23|Canvas Preconcator | no | app method non existing |
  [UK Lotto](https://github.com/CraftDroid/ExpData/commit/67ab10253b8dfdf0d52861a85358cded730e5d2b) | 2|Activity Resolver | yes | |
  Agile Buddy | 2|Activity Resolver | yes | |
  [HiYou Park](https://github.com/CraftDroid/ExpData/commit/189292caa667d5938b40601fba355545cd6133f1) | 33|Try-catcher | yes | |
- Sohu Weibo | 33|Try-catcher | yes | |
+ [Sohu Weibo](https://github.com/CraftDroid/ExpData/commit/48b2e034fe2222b612ea5cb60d6e4c38ed542054) | 33|Try-catcher | yes | |
 
