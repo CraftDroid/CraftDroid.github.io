@@ -10,7 +10,9 @@ The dataset is accessible [here](https://github.com/CraftDroid/ReCBench).
 #### Fix Templates
 We have mined 17 fix templates that are accessible [here](https://github.com/CraftDroid/ExpData/tree/master/Fix_Templates).
 #### Evaluated Patches
-We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. (Actively updating diff view on 21-03-2019, may I have your patience, please ^_^)
+We have applied these fix templates on 20 apks selected from ReCBench, out of which 17 fixes are successful. 3 failed for various reasons. Click on the app names for a diff view of the patches. 
+
+(Actively updating diff view on 21-03-2019, may I have your patience, please ^_^)
 
 App Name |Bucket| Applied Template | Fix | Remark|
 |-------|------|---------|------|------|
@@ -18,7 +20,7 @@ App Name |Bucket| Applied Template | Fix | Remark|
 PI | 8| LifeCycle Verifier | yes | |
 JadwalKA |12| Thread Finisher | yes | |
 Fruit Mahjong |12| Thread Finisher | yes | |
-Flashlight | 1 | Provider Checker | yes | | 
+[Flashlight](https://github.com/CraftDroid/ExpData/commit/cc549ab14ad3499270a922819a09226405a9abd3) | 1 | Provider Checker | yes | | 
 [areain!](https://github.com/CraftDroid/ExpData/commit/3f18d8b980d7b2b3bd6a7a7cee6044569361e665) | 1 |Provider Checker | yes | |
  WordPress |18| Range Checker | no | crash with succeeding API |
 [Android Optimizer](https://github.com/CraftDroid/ExpData/commit/8ee947a913fc1397c6756b7d4eac917fd49593c7) |18| Range Checker | yes | |
